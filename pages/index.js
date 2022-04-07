@@ -15,7 +15,7 @@ export default function Home({ allPostsData}) {
         <p>Hello. I'm <b>Bayang</b>. I'm a Backend Developer <code>Python</code> and Frontend <code>Next.js</code></p>
         <p>
           (This is a sample website - I've built this site using {' '}
-          <a href="https://nextjs.org/learn"> Next.js tutorial</a>. Thank you!)
+          <a href="https://nextjs.org/learn"> Next.js tutorial</a>. Thank you!!)
         </p>
       </section>
 
